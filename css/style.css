@@ -2,33 +2,55 @@ body {
     margin: 2.5%;
     padding: 0;
     font-family: cursive;
+    background-image: linear-gradient(blue, white);
+}
+
+
+p {
+    text-align:center;
+    font-size: x-large;
+    color:cornsilk
 }
 
 h1 {
     text-align:center;
-    font-size: xx-large;
+    font-size:xx-large;
+    color:cornsilk;
 }
-p {
-    text-align:center;
-    font-size: x-large
+h2 {
+    color:cornsilk
 }
 
 nav ul {
     text-align: center;
     list-style: none;
-    background-color:#03cafc;
     text-align: center;
     padding:0;
     margin: 0;
+    
 }
 
 nav li{
     font-size: 1.2em;
     line-height: 40px;
-    margin:2.5%
+    margin:2.5%;
 }
 
 nav a:hover {
     background-color: white;
     color:#03cafc
+}
+#div {
+    list-style: none;
+    Text-align: left;
+    font-variant: normal;
+    color:cornsilk
+}
+li {
+    color:darkslategrey
+
+
+
+
+    color:cornsilk;
 }
