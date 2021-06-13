@@ -1,24 +1,24 @@
-body {
+
+Body {
     margin: 2.5%;
     padding: 0;
-    font-family: cursive;
-    background-image: linear-gradient(blue, white);
+    font-family: cursive;   
 }
 
 
 p {
     text-align:center;
     font-size: x-large;
-    color:cornsilk
+    color:crgb(56, 56, 54);
 }
 
 h1 {
     text-align:center;
     font-size:xx-large;
-    color:cornsilk;
+    color:rgb(56, 56, 54);
 }
 h2 {
-    color:cornsilk
+    color:rgb(56, 56, 54)
 }
 
 nav ul {
@@ -44,13 +44,5 @@ nav a:hover {
     list-style: none;
     Text-align: left;
     font-variant: normal;
-    color:cornsilk
-}
-li {
-    color:darkslategrey
-
-
-
-
-    color:cornsilk;
-}
+    color:rgb(56, 56, 54);
+    }
